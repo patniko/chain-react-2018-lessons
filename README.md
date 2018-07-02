@@ -5,5 +5,5 @@
 3. [Basic Camera App](Lessons/3.md)
 4. [Image Classifier](Lessons/4.md)
 5. [Cognitive Services](Lessons/5.md)
-6. [Iterative Deployments](Lessons/6.md)
-7. [Continuous Integration](Lessons/7.md)
+6. [Iterative Distribution](Lessons/6.md)
+7. [Continuous Deployments](Lessons/7.md)
