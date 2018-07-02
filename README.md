@@ -1,16 +1,9 @@
 ## Lessons
 
-Demo of updating machine learning model using CodePush release:
-- Launch VS Code from an empty folder
-- Add the following options to your VS Code user settings file:
-    "appcenter.demoAppGitRepo": "https://github.com/evgeny-pol/react-native-android-activity.git",
-    "appcenter.api.configurebranchandstartnewbuild": true,
-    "appcenter.codePushMixinPath": "assets"
-- Run "Start a new project"
-- Show new apps, builds, CodePush deployments and distribution groups in App Center
-- Run React Native application, detect dollar bill
-- Update model and label files in application project 'assets' folder
-- Do a CodePush release
-- Show new CodePush release in App Center
-- Apply CodePush release on phone
-- Detect bananas
+1. [Setting Up](Lessons/1.md)
+2. [Project Creation](Lessons/2.md)
+3. [Basic Camera App](Lessons/3.md)
+4. [Image Classifier](Lessons/4.md)
+5. [Cognitive Services](Lessons/5.md)
+6. [Iterative Deployments](Lessons/6.md)
+7. [Continuous Integration](Lessons/7.md)
