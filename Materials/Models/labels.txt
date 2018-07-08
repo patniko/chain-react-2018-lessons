@@ -4,6 +4,6 @@ mouse
 notebook
 pens
 quarter
-single pen
+pen
 starbucks
-wine glass
+wine
