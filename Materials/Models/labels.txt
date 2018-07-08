@@ -1,2 +1,9 @@
-coffee cup
-marker
+dime
+HDMI
+mouse
+notebook
+pens
+quarter
+single pen
+starbucks
+wine glass
