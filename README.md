@@ -8,7 +8,7 @@
 6. [Cognitive Services](Lessons/6.md)
 7. [Iterative Distribution](Lessons/7.md)
 8. [Continuous Deployments](Lessons/8.md)
-9. [Adding Analytics](Lessons/9.md)
+9. [Intermission](Lessons/9.md)
 10. [Adding React Native Windows](Lessons/10.md)
 11. [Linking Windows Dependencies](Lessons/11.md)
 12. [Platform Module Overrides](Lessons/12.md)
